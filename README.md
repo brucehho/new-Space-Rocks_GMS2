@@ -1,7 +1,11 @@
 # new-Space-Rocks_GMS2
 Space Rocks inDnD -new
 
+Project Name: Space Rocks
 
+Language: Drag and Drop
+
+Platform: GameMaker Studio 2
 
 ![Annotation 2020-09-07 1829111181](https://user-images.githubusercontent.com/30223380/92424354-fccd5880-f138-11ea-9a3e-f6ecc7d86bee.jpg)
 ![Annotation 2020-09-07 182911181](https://user-images.githubusercontent.com/30223380/92424358-01920c80-f139-11ea-9549-bea0dee73440.jpg)
